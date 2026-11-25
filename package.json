@@ -7,5 +7,7 @@
     "build": "echo 'No build step required'",
     "test": "echo 'No tests configured'"
   },
-  "dependencies": {}
+  "dependencies": {
+    "serve": "^14.2.8"
+  }
 }
