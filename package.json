@@ -1,0 +1,11 @@
+{
+  "name": "tembea-safaris",
+  "version": "1.0.0",
+  "description": "Website for Tembea Safaris tour company",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'No build step required'",
+    "test": "echo 'No tests configured'"
+  },
+  "dependencies": {}
+}
